@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": "v24.13.0"
+    "node": "v24.18.0"
   },
   "name": "wonderlust",
   "version": "1.0.0",
@@ -28,11 +28,19 @@
     "express-session": "^1.17.3",
     "joi": "^18.2.1",
     "method-override": "^3.0.0",
-    "mongoose": "^9.6.2",
+    "mongoose": "^9.12.2",
     "multer": "^2.1.1",
     "multer-storage-cloudinary": "^4.0.0",
     "passport": "^0.7.0",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^9.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tech-tushar06/WanderLust.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tech-tushar06/WanderLust/issues"
+  },
+  "homepage": "https://github.com/tech-tushar06/WanderLust#readme"
 }
